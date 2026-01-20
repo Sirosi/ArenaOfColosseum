@@ -2,6 +2,7 @@
 
 <div align="center">
   <img width="1080" height="auto" alt="Image" src="README/Title.png" />
+  <img width="1080" height="auto" alt="Image" src="README/InGameFlow.png" />
 </div>
 
 
