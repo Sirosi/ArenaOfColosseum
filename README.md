@@ -2,7 +2,6 @@
 
 <div align="center">
   <img width="1080" height="auto" alt="Image" src="README/Title.png" />
-  <img width="1080" height="auto" alt="Image" src="README/InGameFlow.png" />
 </div>
 
 
@@ -30,7 +29,19 @@
 | **개발 언어** | C# |
 | **타겟 플랫폼** | Windows |
 
+
 ---
+
+
+## 인게임 Network 플로우
+
+<div align="center">
+  <img width="1080" height="auto" alt="Image" src="README/InGameFlow.png" />
+</div>
+
+
+---
+
 
 ## 주요 기능
 
